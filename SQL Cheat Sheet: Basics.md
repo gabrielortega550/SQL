@@ -1,3 +1,4 @@
+# SQL Cheat Sheet: Basics
 Command  | Syntax                                    | Description                                        | Example
 ---------|-------------------------------------------|----------------------------------------------------|---------------
 SELECT   | `SELECT column1, column2, ... FROM table_name;` | Fetch data from a database                         | `SELECT city FROM placeofinterest;`
